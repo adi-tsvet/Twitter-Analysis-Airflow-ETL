@@ -103,3 +103,26 @@ Note: Make sure to copy the `data` folder as well to the DAG folder in case your
 ### Step five: Run the `twitter_dag`
 
 ![twitter-dag.png](screenshots/twitter-dag.png)
+
+## Dataset Used 
+Dataset link : https://www.kaggle.com/code/goyaladi/twitter-data-analysis/input?select=twitter_dataset.csv
+
+The Twitter dataset in CSV format contains essential information about tweets from the Twitter platform. Each row represents a single tweet, and the dataset includes fields such as tweet ID, username, tweet text, retweet count, like count, and timestamp.
+
+This concise dataset provides a snapshot of the Twitter ecosystem, enabling researchers, analysts, and enthusiasts to analyze user engagement, track trends, and gain insights into social media behavior. The CSV format facilitates easy data manipulation and integration with various analytical tools and programming languages.
+
+## Authors
+
+* **Adnan Ali** - Project Lead & Main Contributor
+
+As a Master's degree holder in Computer Science from UMass Boston, I have utilized my expertise in machine learning and computer vision to spearhead the development of this integrated model system. 
+With a keen eye for innovative solutions, I have orchestrated the seamless fusion of posture analysis and logo detection models, showcasing state-of-the-art techniques in the realm of AI.
+
+Connect :
+- [GitHub](https://github.com/adi-tsvet)
+- [LinkedIn](https://www.linkedin.com/in/adi-tsvet/) 
+
+## References
+1. Video tutorial - https://www.youtube.com/watch?v=q8q3OFFfY6c&t=949s
+2. Github project - https://github.com/darshilparmar/twitter-airflow-data-engineering-project
+3. Kaggle Twitter Data Analysis Notebook - https://www.kaggle.com/code/goyaladi/twitter-data-analysis
