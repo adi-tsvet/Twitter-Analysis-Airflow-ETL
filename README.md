@@ -98,6 +98,7 @@ The following section describes where to add your DAG code and supporting files.
 2. `twitter_data_etl.py`
 
 Note: Make sure to copy the `data` folder as well to the DAG folder in case your twitter scraper is not working. It will by default take it from the csv file.
+![file-structure.png](screenshots/file-structure.png)
 
 ### Step five: Run the `twitter_dag`
 
