@@ -9,7 +9,7 @@
 
 ## Getting Started
 ```bash
-git clone https://github.com/adi-tsvet/twitter-airflow-etl.git
+git clone https://github.com/adi-tsvet/Twitter-Analysis-Airflow-ETL.git
 ```
 
 ```bash
