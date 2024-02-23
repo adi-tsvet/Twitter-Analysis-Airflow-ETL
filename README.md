@@ -1,4 +1,4 @@
-# Twitter ETL Airflow Project
+# Twitter Analysis Airflow ETL Project
 
 
 ## Prerequisites / Technology Used
